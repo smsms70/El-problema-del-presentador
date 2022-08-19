@@ -85,7 +85,7 @@ reset.addEventListener('click', ()=>{
 })
 
 
-document.body.addEventListener('', event =>{
-	console.log(event)
-	console.log(event.pageX,event.pageY)
-}, {once: false})
+// document.body.addEventListener('', event =>{
+// 	console.log(event)
+// 	console.log(event.pageX,event.pageY)
+// }, {once: false})

@@ -14,7 +14,7 @@ body{
 	margin: 50px 30px;
 	position: relative;
 }
-div div{
+.div{
 	border: 1px solid darkred;
 	width: 100px;
 	height: 200px;
@@ -25,7 +25,7 @@ div div{
 	font-size: 80px;
 	font-family: sans-serif;
 }
-div div:hover{
+.div:hover{
 	cursor: pointer;
 	background: darkred;
 }
